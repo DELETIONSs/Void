@@ -1,2 +1,2 @@
 # Void
-Void Style Creator
+["Documentation"](https://github.com/seaofvoices/darklua)
