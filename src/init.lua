@@ -3,8 +3,8 @@ OWNER WARNING
 DO NOT USE IF YOU'RE ON YOUR MAIN 
 (BAN IS NOT 100% GUARANTEED BUT THERE IS ALWAYS A RISK)
 ]]
-local MainFolder = require(script.Parent)
-local SafetyProtocols = require(MainFolder.safetyprotocol.lua)
+local Root = script
+local SafetyProtocols = require(Root.safetyprotocol)
 local function SafeGetService(name)
     local ok, service = pcall(function()
         return game:GetService(name)
