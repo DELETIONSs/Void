@@ -1,2 +1,2 @@
 # Void
-["Documentation"](https://github.com/seaofvoices/darklua)
+[Documentation](Documentation.md)
